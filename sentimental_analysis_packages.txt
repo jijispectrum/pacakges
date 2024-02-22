@@ -1,0 +1,10 @@
+Tweepy
+NLTK
+SpaCy
+VADER
+TextBlob
+pip install nltk
+(nltk.download('stopwords'))
+
+
+dataser-https://www.kaggle.com/datasets/abhi8923shriv/sentiment-analysis-dataset?resource=download
